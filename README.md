@@ -1,3 +1,5 @@
+# PATCHED
+
 # captchaCodeMakerV2
 I believe this method of getting captchas is patched/broken now</b><br>
 Make Roblox's signup funcaptcha code so you can send to discord bots (REMADE)<br>
